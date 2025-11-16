@@ -12,9 +12,9 @@ manifest:
       import: app/west.yml
     - name: zmk-keyboard-m65legorev9
       remote: tomicodev
-      revision: main
+      revision: master
     - name: zmk-driver-m65legorev9
       remote: tomicodev
-      revision: main
+      revision: master
   self:
     path: config
