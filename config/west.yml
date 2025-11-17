@@ -13,7 +13,7 @@ manifest:
     - name: zmk-keyboard-m65legorev9
       remote: tomicodev
       revision: master
-    - name: zmk-driver-m65legorev9
+    - name: zmk-driver-gpio-165
       remote: tomicodev
       revision: master
   self:
